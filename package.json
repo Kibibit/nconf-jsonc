@@ -1,6 +1,6 @@
 {
   "name": "@kibibit/nconf-jsonc",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Add support for json with comments files in nconf",
   "main": "lib/index.js",
   "scripts": {
