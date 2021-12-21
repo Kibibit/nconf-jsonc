@@ -1,5 +1,12 @@
 achievibit changelog
 
+# 1.0.0 (2021-12-21)
+
+
+### Features
+
+* **app:** initial implementation ([f8dd394](https://github.com/Kibibit/nconf-jsonc/commit/f8dd3944b466ecbe93832faed1bfdd2cf326156a))
+
 # [1.0.0-beta.13](https://github.com/Kibibit/configit/compare/v1.0.0-beta.12...v1.0.0-beta.13) (2021-10-29)
 
 
